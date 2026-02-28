@@ -99,7 +99,7 @@ pip install pandas scikit-learn fastapi uvicorn streamlit joblib requests
 ```
 
 ### Step 2 — Download Dataset
-Download `payment.csv` from [Kaggle PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) and place it in the project folder.
+Download `payment.csv` from [Kaggle](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data) and place it in the project folder.
 
 ### Step 3 — Train the Model
 Run this in terminal from the project folder:
