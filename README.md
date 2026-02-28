@@ -23,7 +23,7 @@ An end-to-end machine learning project that detects fraudulent online payment tr
 | Model Saving | Joblib |
 | API Framework | FastAPI + Uvicorn |
 | Dashboard | Streamlit |
-| Dataset | PaySim (Kaggle) |
+| Dataset | Online Payment Fraud Detection (Kaggle) |
 | Development | Jupyter Notebook |
 
 ---
