@@ -1,6 +1,6 @@
 # 💳 Online Payment Fraud Detection
 
-An end-to-end machine learning project that detects fraudulent online payment transactions in real time using the PaySim dataset.
+An end-to-end machine learning project that detects fraudulent online payment transactions in real time using the Online Payment Fraud Detection dataset.
 
 ---
 
@@ -47,7 +47,7 @@ Online Payment Fraud Detection/
 
 ## 📊 Dataset
 
-**PaySim** — Synthetic mobile money transactions from Kaggle.
+**Online Payment Fraud Detection** — Synthetic mobile money transactions from Kaggle.
 
 | Property | Value |
 |---|---|
@@ -229,13 +229,14 @@ POST http://localhost:8000/predict
 
 ## 📝 License
 
-This project is for educational purposes using the publicly available PaySim dataset from Kaggle.
+This project is for educational purposes using the publicly available Online Payment Fraud Detection
+ dataset from Kaggle.
 
 ---
 
 ## 🙌 Acknowledgements
 
-- Dataset: [PaySim — E. Lopez-Rojas, Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
+- Dataset: [Online Payment Fraud Detection — Kaggle](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data)
 - ML Framework: [Scikit-learn](https://scikit-learn.org/)
 - API Framework: [FastAPI](https://fastapi.tiangolo.com/)
 - Dashboard: [Streamlit](https://streamlit.io/)
