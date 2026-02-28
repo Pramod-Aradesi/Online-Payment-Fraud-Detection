@@ -33,7 +33,7 @@ An end-to-end machine learning project that detects fraudulent online payment tr
 ```
 Online Payment Fraud Detection/
   |
-  |-- payment.csv              # PaySim dataset
+  |-- payment.csv              # dataset
   |-- fraud_api.py             # FastAPI backend
   |-- dashboard.py             # Streamlit frontend
   |-- Untitled.ipynb           # Jupyter exploration notebook
